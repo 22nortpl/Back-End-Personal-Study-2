@@ -7,9 +7,6 @@ import java.util.List;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import com.example.shop.member.dto.MemberCreateRequest;
-import com.example.shop.member.dto.MemberUpdateRequest;
-
 import lombok.RequiredArgsConstructor;
 
 @RestController
